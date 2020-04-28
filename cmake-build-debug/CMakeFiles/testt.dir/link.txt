@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/testt.dir/test.cpp.o  -o testt /Library/Frameworks/Python.framework/Versions/3.8/lib/libpython3.8.dylib 

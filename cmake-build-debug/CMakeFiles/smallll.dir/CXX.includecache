@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/arina/CLionProjects/MultExperiment/smallll.cpp
+iostream
+-
+vector
+-
+random
+-
+ctime
+-
+fstream
+-
+string
+-
+
