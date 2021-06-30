@@ -1,2 +1,4 @@
-*.cs linguist-language=C++
-*.ico linguist-language=C++
+*.Makefile linguist-detectable=false
+*.C++ linguist-detectable=true
+*.CMake linguist-detectable=true
+*.C linguist-detectable=false
