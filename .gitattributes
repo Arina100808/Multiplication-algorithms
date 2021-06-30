@@ -1,1 +1,4 @@
-*.Makefile linguist-language=C++
+*.C++ linguist-detectable
+*.Makefile -linguist-detectable
+*.C linguist-detectable
+*.CMake linguist-detectable
