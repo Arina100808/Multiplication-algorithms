@@ -1,4 +1,4 @@
-*.C++ linguist-detectable
-*.Makefile -linguist-detectable
-*.C linguist-detectable
-*.CMake linguist-detectable
+*.cpp linguist-detectable
+*.make -linguist-detectable
+*.c linguist-detectable
+*.cmake linguist-detectable
