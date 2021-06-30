@@ -1,3 +1,2 @@
-* linguist-vendored
-*.Makefile linguist-vendored=false
-*.C++ linguist-vendored=true
+*.cs linguist-language=C++
+*.ico linguist-language=C++
